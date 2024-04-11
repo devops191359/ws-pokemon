@@ -54,6 +54,7 @@ Una vez que realices la conexion te aparecerá una pantalla en donde podrás rea
 
 ![image](https://github.com/devops191359/ws-pokemon/assets/16689291/fcccb903-7092-4a46-85ec-525510d85779)
 
+Y una vez realizado lo anterior verás que todo esta correcto y funcional
 
 
 
