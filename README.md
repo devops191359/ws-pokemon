@@ -18,7 +18,7 @@ Se debe de agregar esta variable de entorno a la PC
 ![image](https://github.com/devops191359/ws-pokemon/assets/16689291/5dc9adcd-e087-45e2-a2ae-df75e0af1bfc)
 
 
-Una vez cumplido con lo anterior debera importar el archivo pokemon.wsdl a la herramienta SoapUi para realizar el consumo del web service
+Una vez cumplido con lo anterior debera importar el wsdl usando esta liga http://localhost:8080/ws/pokemon.wsdl  a la herramienta SoapUi para realizar el consumo del web service
 
 ![image](https://github.com/devops191359/ws-pokemon/assets/16689291/f960f5eb-9e42-455e-b0a3-6fffcb6d202a)
 
