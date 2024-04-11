@@ -33,6 +33,18 @@ Para todos los métodos siempre te pedirá el nombre del pokemon por lo cual te 
 ![image](https://github.com/devops191359/ws-pokemon/assets/16689291/d50c57d0-cb91-4300-a2a2-fe24e133f0f5)
 
 
+##VERIFICAR TRABAILIDAD DE BITACORA EN BASE DE DATOS H2
+
+Para verificar la trazabilidad o bitácora de las transacciones desde la BD de H2 deberás acceder a la liga http://localhost:8080/h2-console/login.jsp?jsessionid=d392b4350f826e765a87d9c801bf0ba8 en la cual deberás ingresar las siguientes cedenciales y cadena de conexión coimo se muestra a continuación:
+
+##Datasource
+url: jdbc:h2:mem:pokemon
+username: sa
+password: password
+![image](https://github.com/devops191359/ws-pokemon/assets/16689291/8cdaa4fb-ba9a-4e29-98c9-ae1640d24474)
+
+
+
 
 
 
