@@ -4,7 +4,7 @@ Service Soap for consume pokemon data
 
 Para poder ejecutar este código primero deberá clonar en su pc el repositorio con el siguiente comando:
 
-# git clone https://github.com/devops191359/ws-pokemon.git
+#git clone https://github.com/devops191359/ws-pokemon.git
 
 Para compilar y ejecutar dicho web service deberá instalar el java jdk 17
 
