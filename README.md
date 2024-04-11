@@ -47,6 +47,15 @@ password: password
 
 ![image](https://github.com/devops191359/ws-pokemon/assets/16689291/8cdaa4fb-ba9a-4e29-98c9-ae1640d24474)
 
+Una vez que realices la conexion te aparecerá una pantalla en donde podrás realizar las instrucciones sql de coonsulta para validar que en la tabla  TA_BITACORA valides que se muestre la información de la bitácora como se muestran en las figuras :
+
+![image](https://github.com/devops191359/ws-pokemon/assets/16689291/e4af2036-af4c-467f-ae4c-5b9c0a56569d)
+
+
+![image](https://github.com/devops191359/ws-pokemon/assets/16689291/fcccb903-7092-4a46-85ec-525510d85779)
+
+
+
 
 
 
