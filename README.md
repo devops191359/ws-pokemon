@@ -26,6 +26,14 @@ Una vez cumplido con lo anterior debera importar el archivo pokemon.wsdl a la he
 Nota: El archivo pokemon.wsdl se encuentra a nivel de  la  carpeta del proyecto.
 
 
+##EJEMPLO PRUEBA DE CONSUMO CON HERRAMIENTA SOAP UI
+
+Para todos los métodos siempre te pedirá el nombre del pokemon por lo cual te comparto un ejemplo de como consumir el web service desde soap ui
+
+![image](https://github.com/devops191359/ws-pokemon/assets/16689291/d50c57d0-cb91-4300-a2a2-fe24e133f0f5)
+
+
+
 
 
 
